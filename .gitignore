@@ -1,0 +1,8 @@
+# ignore builds
+build/
+
+# ignore targets
+hake
+
+# ignore tags
+tags
