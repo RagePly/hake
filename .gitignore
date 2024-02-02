@@ -2,7 +2,7 @@
 build/
 
 # ignore targets
-hake
+/hake
 
 # ignore tags
-tags
+/tags
